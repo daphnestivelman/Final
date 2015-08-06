@@ -1,0 +1,49 @@
+html {
+    background: url(../img/IMG_1776.JPG) fixed;
+    opacity: 20%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: scroll;
+}
+
+p {
+   margin-top: 250px;
+   letter-spacing: -1px;
+   text-align: center;
+   font-family: 'American Typewriter';
+   font-size: 40px;
+   color: solid black;
+}
+h2 {
+   font-size: 32px;
+   margin-left: 150px;
+}
+
+a{
+   text-decoration: none;
+   color: black;
+}
+#title {
+   text-decoration: none;
+   margin-top: 220px;
+   margin-right: 235px;
+      text-align: center;
+   font-family: courier;
+   color: black;
+   padding height: 3%;
+}
+
+a{
+    text-decoration: none;
+   color: black;
+   transition: .5s;
+}
+a:hover {
+   text-decoration: none;
+   color: white;
+   transition: .5s;
+}
+
+
+
+

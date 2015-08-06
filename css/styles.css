@@ -1,0 +1,39 @@
+html {
+    background: url(../img/IMG_1776.JPG);
+    opacity: 20%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: scroll;
+}
+
+h1 {
+   letter-spacing: -1px;
+   text-align: center;
+   font-family: 'courier';
+   font-size: 40px;
+   color: solid black;
+}
+h2 {
+   font-size: 32px;
+   margin-left: 150px;
+}
+
+.title {
+   margin-top: 220px;
+   margin-right: 235px;
+      text-align: center;
+   font-family: courier;
+   color: black;
+   padding height: 3%;
+}
+
+.title:hover{
+   text-decoration: none;
+   color: white;
+   background-color: #2c2c2c;
+   transition: .5s;
+}
+
+
+
+
