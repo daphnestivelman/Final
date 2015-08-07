@@ -14,12 +14,13 @@ h1{
 
 .title{
    margin-left: auto;
-   font-family: 'Courier New';
+   font-family: 'American Typewriter';
    font-weight: lighter;
    font-size: 30px;
-letter-spacing: 0px;
+letter-spacing: 1px;
 margin-top:  40px;
 margin-bottom: -1px;
+word-spacing: 10px;
 }
 
 .colorbrick img {
@@ -42,12 +43,14 @@ a img:hover{
 }
 .nav {
    margin-left: 445px;
-   margin-top: 12px;
+   margin-top: 11px;
    color: white;
    font-size: 30px;
-   font-family: 'courier new';
+   font-family: 'American Typewriter';
+   font-weight: lighter;
    text-decoration: none;
-   word-spacing: 5px;
+   word-spacing: 15px;
+   letter-spacing: 1px;
 }
 .nav a:hover {
 transition: .5s;
@@ -66,9 +69,11 @@ color: #973536;
    padding-right: 5px;
    color: white;
    font-family: 'American Typewriter';
+   font-weight: lighter;
+   letter-spacing: .3px;
    font-size: 22px;
    margin-top: 160px;
-   margin-right: 300px;
+   margin-right: 290px;
    margin-left: auto;
    line-height: 150%;
    padding-left: 5px;
@@ -79,6 +84,7 @@ color: #973536;
    margin-top: 100px;
    color: white;
    font-family: 'American Typewriter';
+   font-weight: lighter;
    text-decoration: none;
    word-spacing: 18px;
 }
@@ -122,6 +128,7 @@ color: #973536;
    margin-top: 10px;
    color: white;
    font-family: 'American Typewriter';
+   font-weight: lighter;
    text-decoration: none;
 }
 
@@ -146,6 +153,7 @@ color: #973536;
    font-size: 15px;
    color: white;
    font-family: 'American Typewriter';
+   font-weight: lighter;
    text-decoration: none;
 }
 
@@ -157,6 +165,7 @@ color: #973536;
 #daphne {
    float: left;
    font-family: 'American Typewriter';
+   font-weight: lighter;
    font-size: 30px;
    margin-left: 30px;
    margin-top: 0px;
@@ -176,6 +185,7 @@ color: #973536;
    padding-right: 5px;
    color: white;
    font-family: 'American Typewriter';
+   font-weight: lighter;
    font-size: 32px;
    margin-top: 100px;
    margin-right: 100px;
@@ -190,6 +200,7 @@ color: #973536;
    margin-top: 270px;
    color: white;
    font-family: 'American Typewriter';
+   font-weight: lighter;
    text-decoration: none;
    word-spacing: 18px;
 }
@@ -203,6 +214,7 @@ color: #973536;
     margin-left: 450px;
    color: white;
    font-family: 'American Typewriter';
+   font-weight: lighter;
    text-decoration: none;
    word-spacing: 18px;
 }
@@ -216,6 +228,7 @@ color: #973536;
     margin-left: 450px;
    color: white;
    font-family: 'American Typewriter';
+   font-weight: lighter;
    text-decoration: none;
    word-spacing: 18px;
    padding-right: 10px;
