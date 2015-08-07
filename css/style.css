@@ -5,23 +5,19 @@ body {
 
 h1{
    margin-left: 450px;
-   font-style: small-caps;
-   padding-top:10px;
+      padding-top:10px;
    margin-top: 10px;
    color: white;
 
 }
-#photography {
-   margin-left: auto;
-   text-align: center;
-   color: white;
-}
+
 
 .title{
    margin-left: auto;
-   font-family: 'American Typewriter';
-   font-size: 31px;
-letter-spacing: 1px;
+   font-family: 'Courier New';
+   font-weight: lighter;
+   font-size: 30px;
+letter-spacing: 0px;
 margin-top:  40px;
 margin-bottom: -1px;
 }
@@ -45,12 +41,13 @@ a img:hover{
    opacity: .5
 }
 .nav {
-   margin-left: 450px;
-   margin-top: 15px;
+   margin-left: 445px;
+   margin-top: 12px;
    color: white;
-   font-family: 'American Typewriter';
+   font-size: 30px;
+   font-family: 'courier new';
    text-decoration: none;
-   word-spacing: 18px;
+   word-spacing: 5px;
 }
 .nav a:hover {
 transition: .5s;
@@ -106,11 +103,15 @@ color: #973536;
    text-align: center;
 }
 
+#and {
+   color: #973536;
+}
+
 #Color {
    margin-top: 10px;
    margin-right: 10px;
    font-size: 32px;
-   color: white;
+   color: #973536;
    font-family: 'American Typewriter';
    text-align: center;
    padding: 350px;
@@ -217,6 +218,7 @@ color: #973536;
    font-family: 'American Typewriter';
    text-decoration: none;
    word-spacing: 18px;
+   padding-right: 10px;
 }
 
 .navcolor a:hover {
